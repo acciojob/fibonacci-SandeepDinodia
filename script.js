@@ -1,11 +1,11 @@
 function fibonacci(num) {
 // your code here
-	
+	// def fibonacci(num):
     if num <= 0:
         return "Invalid input. Please provide a positive integer greater than 0."
-    elif num == 1:
+    let num == 1:
         return 0
-    elif num == 2:
+    let num == 2:
         return 1
     else:
         a, b = 0, 1
